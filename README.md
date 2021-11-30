@@ -1,6 +1,6 @@
 # PlatformArduino
 
-Juego de plataforma 2D en donde debes recoger todas las monedas del nivel para que se abran los portales y pasar al siguiente nivel-
+Juego de plataforma 2D en donde debes recoger todas las monedas del nivel para que se abran los portales y pasar al siguiente nivel.
 
 Video de Demostración: https://www.youtube.com/watch?v=E6LyfvVjdW0&ab_channel=RafaelAlexanderOrtizPorras
 
